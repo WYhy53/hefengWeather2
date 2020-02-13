@@ -2,7 +2,7 @@
 风和日丽天气是一款基于Android端开源的天气预报软件，具备查看全国的省市县、查询任意城市天气、自由切换城市、手动更新天气、后台自动更新天气和背景图片等功能。风和日丽中的天气数据由和风日丽天气提供，城市数据由郭霖老师《第一行代码》上面的API提供，背景图片由必应提供，代码遵循Apache v2 License开源协议。
 使用步骤：
 通过城市选择按钮从对应的省市县列表中选择的城市从而展示对应城市的天气数据。右上角表示对应展示的天气数据的更新的时间，往下依次是此时的实况天气，未来三天天气预报和当日生活建议。
-!【img】https://github.com/WYhy53/UIPractice/blob/master/hefeng.gif
+!【image】(https://github.com/WYhy53/UIPractice/blob/master/hefeng.gif)
 使⽤到的⽐较重要的技术及知识点：
 1.创建数据库和表，使用LitePal来管理数据库。
 2.使用HTTP协议访问网络，使用okHttp，在子线程更新UI。
