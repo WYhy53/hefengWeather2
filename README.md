@@ -3,7 +3,7 @@
 使用步骤：
 通过城市选择按钮从对应的省市县列表中选择的城市从而展示对应城市的天气数据。右上角表示对应展示的天气数据的更新的时间，往下依次是此时的实况天气，未来三天天气预报和当日生活建议。
 ![image](https://github.com/WYhy53/UIPractice/blob/master/QQ%E5%9B%BE%E7%89%8720200213151026.jpg)
-!【image】(https://github.com/WYhy53/UIPractice/blob/master/hefeng.gif)
+![image](https://github.com/WYhy53/UIPractice/blob/master/hefeng.gif)
 使⽤到的⽐较重要的技术及知识点：
 1.创建数据库和表，使用LitePal来管理数据库。
 2.使用HTTP协议访问网络，使用okHttp，在子线程更新UI。
